@@ -1,0 +1,16 @@
+App Campeonato/Liga
+
+> Modelo 1 - Pontos corridos
+
+- Informar número de times
+- Informar número minimo e max de jogadores
+- Uma etapa com cadastro do time e jogadores de acordo com as etapas anteriores
+- Gerar tabela de jogos com os times cadastrados
+
+
+######################
+
+Salvar quantidade de times
+Salvar quantidade min e max de jogadores
+
+Criar as rotas no vue-router
